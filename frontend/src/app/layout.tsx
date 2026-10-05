@@ -16,8 +16,8 @@ const inter = Inter({
 });
 
 export const metadata: Metadata = {
-  title: "Magic Mates",
-  description: "Magic Mates Monday draft league tracker",
+  title: "Magic Mates Canberra",
+  description: "Magic Mates Canberra draft league tracker",
 };
 
 export default function RootLayout({
