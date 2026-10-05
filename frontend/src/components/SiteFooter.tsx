@@ -82,7 +82,7 @@ export default function SiteFooter({ children }: { children?: React.ReactNode })
       </div>
       <div style={{ display: "flex", alignItems: "center", gap: 16, flexWrap: "wrap" }}>
         <DiscordLink />
-        <span className="eyebrow">Magic Mates Monday @ Chromatic Games</span>
+       <span className="eyebrow">Magic Mates Canberra · Wednesday @ Jolt</span>
       </div>
     </footer>
   );
