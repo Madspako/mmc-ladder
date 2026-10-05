@@ -349,7 +349,7 @@ export default function LeaderboardPage() {
         {/* Sticky header */}
         <Masthead
           current="leaderboard"
-          title="Magic Mates Draft Ladder"
+          title="Magic Mates Canberra Draft Ladder"
           subtitle={
             <>
               <DiscordButton />
