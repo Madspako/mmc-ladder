@@ -5,5 +5,5 @@
   "functions": {
     "src/mm_ladder/app.py": { "maxDuration": 30 }
   },
-  "git": { "deploymentEnabled": { "main": false } }
+  "git": { "deploymentEnabled": { "main": true } }
 }
